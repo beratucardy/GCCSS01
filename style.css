@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+}
+.main-ul {
+  list-style-position: inside;
+}
+.main {
+  color: red;
+  font-size: 34px;
+}
+.main-1 {
+  color: blueviolet;
+  font-size: 24px;
+}
+.main-2 {
+  color: rgb(165, 165, 112);
+}
+p {
+  text-align: left;
+  font-family: "Noto Serif Khojki";
+}
+.main-ul2 {
+  list-style-type: none;
+}
+body.hakkimizda h3.main-2 {
+  text-align: left;
+}

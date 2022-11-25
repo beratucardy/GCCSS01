@@ -1,0 +1,16 @@
+li.list {
+  color: aqua !important;
+  text-align: center;
+}
+.list2 {
+  font-size: 30px;
+  background-color: blueviolet;
+}
+#list3 {
+  color: blue;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: blueviolet;
+}
